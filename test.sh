@@ -1,0 +1,1 @@
+figlet Hello World! | lolcat
