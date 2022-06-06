@@ -1,1 +1,1 @@
-figlet Hello World! | lolcat
+notify-send "Coucou :D"
