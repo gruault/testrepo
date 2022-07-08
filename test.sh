@@ -1,1 +1,1 @@
-notify-send "Coucou :D"
+figlet -w 999 TECHNOBLADE | lolcat
